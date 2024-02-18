@@ -1,0 +1,38 @@
+Key,Issue Type,Parent,Summary,Status,Assignee,Sprint,Start date,Inferred start date,Due date,Inferred due date,Issue color
+LT-1,Epic,,Test Plan,Done,sreevidhya abhilash,,22-01-2024,22-01-2024,27-01-2024,27-01-2024,purple
+LT-3,Story,LT-1,Introduction,Done,sreevidhya abhilash,LT Sprint 1,,02-02-2024,,16-02-2024,purple
+LT-15,Story,LT-1,TEST CLOSURE,Done,sreevidhya abhilash,LT Sprint 1,,02-02-2024,,16-02-2024,purple
+LT-4,Story,LT-1,TEST OBJECTIVES,Done,sreevidhya abhilash,LT Sprint 1,,02-02-2024,,16-02-2024,purple
+LT-11,Story,LT-1,RESOURCE PLANNING .,Done,sreevidhya abhilash,LT Sprint 1,,02-02-2024,,16-02-2024,purple
+LT-6,Story,LT-1,APPROACH,Done,sreevidhya abhilash,LT Sprint 1,,02-02-2024,,16-02-2024,purple
+LT-12,Story,LT-1,SCHEDULES,Done,sreevidhya abhilash,LT Sprint 1,,02-02-2024,,16-02-2024,purple
+LT-13,Story,LT-1,RISKS,Done,sreevidhya abhilash,LT Sprint 1,,02-02-2024,,16-02-2024,purple
+LT-7,Story,LT-1,PASS/FAIL CRITERIA,Done,sreevidhya abhilash,LT Sprint 1,,02-02-2024,,16-02-2024,purple
+LT-8,Story,LT-1,EXIT/ENTRY CRITERIA,Done,sreevidhya abhilash,LT Sprint 1,,02-02-2024,,16-02-2024,purple
+LT-5,Story,LT-1,SCOPE OF TESTING,Done,sreevidhya abhilash,LT Sprint 1,,02-02-2024,,16-02-2024,purple
+LT-14,Story,LT-1,. MITIGATION PLAN,Done,sreevidhya abhilash,LT Sprint 1,,02-02-2024,,16-02-2024,purple
+LT-10,Story,LT-1,RESPONSIBILITIES.,Done,sreevidhya abhilash,LT Sprint 1,,02-02-2024,,16-02-2024,purple
+LT-9,Story,LT-1,TEST DELIVERABLES,Done,sreevidhya abhilash,LT Sprint 1,,02-02-2024,,16-02-2024,purple
+LT-2,Epic,,Test Case,Done,sreevidhya abhilash,,28-01-2024,28-01-2024,,01-03-2024,purple
+LT-23,Story,LT-2,Trainer,Done,sreevidhya abhilash,LT Sprint 2,,02-02-2024,,01-03-2024,purple
+LT-22,Story,LT-2,Placement Officer,Done,sreevidhya abhilash,LT Sprint 2,,02-02-2024,,01-03-2024,purple
+LT-16,Story,LT-2,Admin ,Done,sreevidhya abhilash,LT Sprint 2,,02-02-2024,,01-03-2024,purple
+LT-41,Epic,,Manual testing,Done,,,,27-01-2024,,03-02-2024,purple
+LT-42,Story,LT-41,Admin,Done,sreevidhya abhilash,LT Sprint 3,,27-01-2024,,03-02-2024,purple
+LT-44,Story,LT-41,Placement officer,Done,sreevidhya abhilash,LT Sprint 3,,27-01-2024,,03-02-2024,purple
+LT-43,Story,LT-41,Trainer Head,Done,sreevidhya abhilash,LT Sprint 3,,27-01-2024,,03-02-2024,purple
+LT-83,Bug,LT-41,Admin cannot update User information by searching by name.,To Do,,,,,,,red
+LT-84,Bug,LT-41,Verify the multiple user with same credentials is accepting,To Do,,,,,,,red
+LT-85,Bug,LT-41,Leaner id with numercal values only(invaild data) is accepting,To Do,,,,,,,red
+LT-86,Bug,LT-41,Leaner id with alphabets values only(invaild data) is accepting,To Do,,,,,,,red
+LT-87,Bug,LT-41,the multiple user with same credentials is accepting,To Do,,,,,,,red
+LT-88,Bug,LT-41,the added .csv file is not reflected in the leaners dashboard,To Do,,,,,,,red
+LT-89,Bug,LT-41,there we have any download button to download the uploaded .csv file to update the details,To Do,,,,,,,red
+LT-45,Epic,,Automation Testing,To Do,,,,03-02-2024,,10-02-2024,purple
+LT-48,Story,LT-45,Trainer,Done,sreevidhya abhilash,LT Sprint 4,,03-02-2024,,10-02-2024,purple
+LT-49,Story,LT-45,Placement Officer,Done,sreevidhya abhilash,LT Sprint 4,,03-02-2024,,10-02-2024,purple
+LT-47,Story,LT-45,Admin,Done,sreevidhya abhilash,LT Sprint 4,,03-02-2024,,10-02-2024,purple
+LT-90,Epic,,Performance Testing,Done,,,,10-02-2024,,17-02-2024,purple
+LT-91,Story,LT-90,Admin,Done,sreevidhya abhilash,LT Sprint 5,,10-02-2024,,17-02-2024,purple
+LT-93,Story,LT-90,Trainer head,Done,sreevidhya abhilash,LT Sprint 5,,10-02-2024,,17-02-2024,purple
+LT-92,Story,LT-90,Placement Officer,Done,sreevidhya abhilash,LT Sprint 5,,10-02-2024,,17-02-2024,purple
